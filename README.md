@@ -147,4 +147,4 @@ Bot requires:
 
 ## License
 
-MIT License
+Apache License
