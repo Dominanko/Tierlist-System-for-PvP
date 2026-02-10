@@ -1,0 +1,94 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+
+  "tierlists": {
+    "mace": {
+      "roleID": "Insert Role ID for Mace staff here",
+      "roleID": "same here",
+      "roleID": "same here",
+      "channelID": "Insert Channel ID for Mace here",
+      "maxQueue": 20,
+      "rankRoles": {
+        "Ascendent-Tier": "Insert Role ID for Ascendent Tier here",
+        "Sovereign-Tier": "Insert Role ID for Sovereign Tier here",
+        "Champion-Tier": "Insert Role ID for Champion Tier here",
+        "Sentinal-Tier": "Insert Role ID for Sentinel Tier here",
+        "Skirmisher-Tier": "Insert Role ID for Skirmisher Tier here",
+        "Contender-Tier": "Insert Role ID for Contender Tier here",
+        "Initiate-Tier": "Insert Role ID for Initiate Tier here",
+        "Fallen-Tier": "Insert Role ID for Fallen Tier here"
+      }
+    },
+
+    "sword": {
+      "roleID": "Insert Role ID for Sword staff here",
+      "roleID": "same here",
+      "roleID": "same here",
+      "channelID": "Insert Channel ID for Sword here",
+      "maxQueue": 15,
+      "rankRoles": {
+        "Ascendent-Tier": "Insert Role ID for Ascendent Tier here",
+        "Sovereign-Tier": "Insert Role ID for Sovereign Tier here",
+        "Champion-Tier": "Insert Role ID for Champion Tier here",
+        "Sentinal-Tier": "Insert Role ID for Sentinel Tier here",
+        "Skirmisher-Tier": "Insert Role ID for Skirmisher Tier here",
+        "Contender-Tier": "Insert Role ID for Contender Tier here",
+        "Initiate-Tier": "Insert Role ID for Initiate Tier here",
+        "Fallen-Tier": "Insert Role ID for Fallen Tier here"
+      }
+    },
+
+    "axe": {
+      "roleID": "Insert Role ID for Axe staff here",
+      "roleID": "same here",
+      "roleID": "same here",
+      "channelID": "Insert Channel ID for Axe here",
+      "maxQueue": 15,
+      "rankRoles": {
+        "Ascendent-Tier": "Insert Role ID for Ascendent Tier here",
+        "Sovereign-Tier": "Insert Role ID for Sovereign Tier here",
+        "Champion-Tier": "Insert Role ID for Champion Tier here",
+        "Sentinal-Tier": "Insert Role ID for Sentinel Tier here",
+        "Skirmisher-Tier": "Insert Role ID for Skirmisher Tier here",
+        "Contender-Tier": "Insert Role ID for Contender Tier here",
+        "Initiate-Tier": "Insert Role ID for Initiate Tier here",
+        "Fallen-Tier": "Insert Role ID for Fallen Tier here"
+      }
+    },
+
+    "spear": {
+      "roleID": "Insert Role ID for Spear staff here",
+      "roleID": "same here",
+      "roleID": "same here",
+      "channelID": "Insert Channel ID for Spear here",
+      "maxQueue": 20,
+      "rankRoles": {
+        "Ascendent-Tier": "Insert Role ID for Ascendent Tier here",
+        "Sovereign-Tier": "Insert Role ID for Sovereign Tier here",
+        "Champion-Tier": "Insert Role ID for Champion Tier here",
+        "Sentinal-Tier": "Insert Role ID for Sentinel Tier here",
+        "Skirmisher-Tier": "Insert Role ID for Skirmisher Tier here",
+        "Contender-Tier": "Insert Role ID for Contender Tier here",
+        "Initiate-Tier": "Insert Role ID for Initiate Tier here",
+        "Fallen-Tier": "Insert Role ID for Fallen Tier here"
+      }
+    },
+
+    "smp": {
+      "roleID": "Insert Role ID for SMP staff here",
+      "roleID": "same here",
+      "channelID": "Insert Channel ID for SMP here",
+      "maxQueue": 20,
+      "rankRoles": {
+        "Ascendent-Tier": "Insert Role ID for Ascendent Tier here",
+        "Sovereign-Tier": "Insert Role ID for Sovereign Tier here",
+        "Champion-Tier": "Insert Role ID for Champion Tier here",
+        "Sentinal-Tier": "Insert Role ID for Sentinel Tier here",
+        "Skirmisher-Tier": "Insert Role ID for Skirmisher Tier here",
+        "Contender-Tier": "Insert Role ID for Contender Tier here",
+        "Initiate-Tier": "Insert Role ID for Initiate Tier here",
+        "Fallen-Tier": "Insert Role ID for Fallen Tier here"
+      }
+    }
+  }
+}
