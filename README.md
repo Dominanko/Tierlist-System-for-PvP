@@ -59,7 +59,7 @@ Tierlist bot online 😎
 ```
 
 ---
-
+If using bought server then set it to launch from index.js
 ## Configuration (`config.json`)
 
 Each tierlist (e.g. `mace`, `sword`, `axe`, `smp`) supports:
